@@ -23,7 +23,7 @@
         	border-radius: 15px;
         	margin-left: 590px;
  		}
-
+// thiis is made by Trang. 
  	</style>
  	<h1 align="center">CALCULATION APP</h1>
  	<div>
